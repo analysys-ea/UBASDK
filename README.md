@@ -1,4 +1,4 @@
-# AnalysysAgent-EasyTouch
+# AnalysysAgent_EasyTouch
 
 * 该 SDK 为方舟 AnalysysAgent 易达专用版，接口与 AnalysysAgent 完全一致
 
