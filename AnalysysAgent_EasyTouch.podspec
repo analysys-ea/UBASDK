@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/analysys-ea/UBASDK"
   s.social_media_url = "https://ark.analysys.cn/"
   s.source       = { :git => 'https://github.com/analysys-ea/UBASDK.git', :tag => s.version }
-  s.license      = "MIT"
+  s.license      = { :type => "MIT", :file => "README.md" }
   s.author       = { "analysys" => "analysys@analysys.com.cn" }
   s.platform     = :ios, "8.0"
 
